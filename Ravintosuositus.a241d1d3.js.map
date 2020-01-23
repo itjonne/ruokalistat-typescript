@@ -1,0 +1,1 @@
+{"version":3,"sources":["Ravintosuositus.ts"],"names":[],"mappings":";;;;;;;;IAAa,kBAET,2BAAA;AAAA;AAEC;;AAJL,OAAA,CAAA,eAAA,GAAA,eAAA","file":"Ravintosuositus.a241d1d3.js","sourceRoot":"..\\src","sourcesContent":["export class Ravintosuositus {\r\n\r\n    constructor() {\r\n\r\n    }\r\n\r\n}"]}
